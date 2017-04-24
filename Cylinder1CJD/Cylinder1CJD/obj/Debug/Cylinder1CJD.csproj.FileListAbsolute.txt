@@ -1,0 +1,6 @@
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\bin\Debug\Cylinder1CJD.exe.config
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\bin\Debug\Cylinder1CJD.exe
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\bin\Debug\Cylinder1CJD.pdb
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\obj\Debug\Cylinder1CJD.csprojResolveAssemblyReference.cache
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\obj\Debug\Cylinder1CJD.exe
+c:\users\i58867\documents\visual studio 2017\Projects\Cylinder1CJD\Cylinder1CJD\obj\Debug\Cylinder1CJD.pdb

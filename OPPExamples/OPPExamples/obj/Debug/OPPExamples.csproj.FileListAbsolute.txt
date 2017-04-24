@@ -1,0 +1,6 @@
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\obj\Debug\OPPExamples.csprojResolveAssemblyReference.cache
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\bin\Debug\OPPExamples.exe.config
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\bin\Debug\OPPExamples.exe
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\bin\Debug\OPPExamples.pdb
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\obj\Debug\OPPExamples.exe
+c:\users\i58867\documents\visual studio 2017\Projects\OPPExamples\OPPExamples\obj\Debug\OPPExamples.pdb
